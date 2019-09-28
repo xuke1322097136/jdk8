@@ -1,0 +1,28 @@
+# compiled class file
+*.class
+
+# log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# mobile tools for Java(J2ME)
+.mtj.tmp/
+
+# Package Files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.ta.gz
+*.rar
+
+# virtual machine carsh logs, 
+hs_err_pid*
+
+# Intellij IDEA
+*.idea
+*.iml
+
